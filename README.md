@@ -1,14 +1,20 @@
 # Programming-e-book
 汇总整理编程相关各类电子书籍库<br>
 本文中所有资源均来源于互联网，本人仅搜集整理。仅供个人目的使用
-<br>《Arduino开发从零开始学：学电子的都玩这个》_宋楠.pdf  162.47M
+<br>《Arduino开发从零开始学：学电子的都玩这个》.pdf  162.47M
 <br><a href="https://pan.baidu.com/s/1UcZ88IVa3BA2uWCnDlirmQ?pwd=8du4">百度网盘下载</a>
 <br>《Clojure web 开发实战》.pdf  133.84M
+<br><a href="https://pan.baidu.com/s/1DvAtmCCGy1SzlwUaaVzrmw?pwd=o9x1">百度网盘下载</a>
 <br>《CTO说》.pdf  103.22M
+<br><a href="https://pan.baidu.com/s/18SmueEQ07s8RpkH4izo4xg?pwd=thht">百度网盘下载</a>
 <br>《DevOps 最佳实践》_EXIN DevOps master译_2018-10-01.pdf  125.59M
+<br><a href="https://pan.baidu.com/s/1ixcTRPv3LuiwMo9K-k-5Kg?pwd=85v9">百度网盘下载</a>
 <br>《DevOps：原理、方法与实践》_荣国平等_ 2017-11-01.pdf  161.60M
+<br><a href="https://pan.baidu.com/s/1Zj_QuGtNvarsNiZgPnLbtA?pwd=chw6">百度网盘下载</a>
 <br>《DevOps实践》.pdf  56.11M
+<br><a href="https://pan.baidu.com/s/1iMZ2GSy3xE6PbXBDBl3aHw?pwd=oh7y">百度网盘下载</a>
 <br>《DevOps实践指南》_刘征等译.pdf  219.20M
+<br><a href="https://pan.baidu.com/s/1xY7wTmRE6exgNi4Ktpy7CQ?pwd=il4w">百度网盘下载</a>
 <br>《DevOps实施手册 在多级IT企业中使用DevOps》_万金译.pdf  193.93M
 <br>《DevOps实战：VMware管理员运维方法、工具及最佳实践》.pdf  92.02M
 <br>《Django企业开发实战 高效Python Web框架指南》_胡阳_2019-02-01.pdf  211.21M
