@@ -2,7 +2,7 @@
 汇总整理编程相关各类电子书籍库<br>
 本文中所有资源均来源于互联网，本人仅搜集整理。仅供个人目的使用
 <br>《Arduino开发从零开始学：学电子的都玩这个》_宋楠.pdf  162.47M
-<a herf="https://pan.baidu.com/s/1UcZ88IVa3BA2uWCnDlirmQ?pwd=8du4">百度网盘下载</a>
+<br><a href="https://pan.baidu.com/s/1UcZ88IVa3BA2uWCnDlirmQ?pwd=8du4">百度网盘下载</a>
 <br>《Clojure web 开发实战》.pdf  133.84M
 <br>《CTO说》.pdf  103.22M
 <br>《DevOps 最佳实践》_EXIN DevOps master译_2018-10-01.pdf  125.59M
