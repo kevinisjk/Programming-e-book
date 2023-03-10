@@ -1,6 +1,8 @@
 # Programming-e-book
 汇总整理编程相关各类电子书籍库<br>
-本文中所有资源均来源于互联网，本人仅搜集整理。仅供个人目的使用<br>《Arduino开发从零开始学：学电子的都玩这个》_宋楠.pdf  162.47M
+本文中所有资源均来源于互联网，本人仅搜集整理。仅供个人目的使用
+<br>《Arduino开发从零开始学：学电子的都玩这个》_宋楠.pdf  162.47M
+<a herf="https://pan.baidu.com/s/1UcZ88IVa3BA2uWCnDlirmQ?pwd=8du4">百度网盘下载</a>
 <br>《Clojure web 开发实战》.pdf  133.84M
 <br>《CTO说》.pdf  103.22M
 <br>《DevOps 最佳实践》_EXIN DevOps master译_2018-10-01.pdf  125.59M
@@ -1039,7 +1041,6 @@
 <br>无线黑客傻瓜书.pdf  69.52M
 <br>现代计算机常用数据结构与算法.pdf  33.32M
 <br>易学C++.pdf  2.25M
-
 <br>ActiveMQ_in_Action_中文.pdf  295.11kb
 <br>Concurrent Programming in Java.pdf  2.42M
 <br>Docker从入门到实践 - v1.0.pdf  1.76M
@@ -1214,7 +1215,7 @@
 <br>写给大忙人看的JAVA核心技术.pdf  106.94M
 <br>一本小小的MyBatis源码分析书.pdf  11.77M
 <br>亿级流量网站架构核心技术 跟开涛学搭建高可用高并发系统.pdf  175.04M
-|   └──正则表达式.pdf  249.17kb
+<br>正则表达式.pdf  249.17kb
 <br>Android应用开发入门教程(经典版).pdf  5.26M
 <br>book121 - 重构改善既有代码的设计.pdf  12.40M
 <br>Bootstrap实战从入门到精通_未来科技 .pdf  115.13M
