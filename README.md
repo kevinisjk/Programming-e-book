@@ -784,7 +784,6 @@
 <br>《图解Java多线程设计模式》.pdf  363.80M
 <br>《图解深度学习》_张弥译_2018-05-01.pdf  91.24M
 <br>《图解深度学习与神经网络：从张量到TensorFlow实现》_张平_2018-09-01.pdf  174.52M
-
 <br>决策树随机森林adaboost.pdf  1.10M
 <br>贝叶斯方法.pdf  6.21M
 <br>卷积神经网络.pdf  23.65M
@@ -872,8 +871,8 @@
 <br>ISO IEC 9899 1999 (C99).pdf  1.35M
 <br>Java.Servlets.编程指南.pdf  23.03M
 <br>Java2参考大全(第四版)解密.pdf  2.80M
-<br>Java2核心技术II卷.高级特性7th[www.TopSage.com].pdf  110.06M
-<br>Java2核心技术第I卷.基础知识7th[www.TopSage.com].pdf  86.28M
+<br>Java2核心技术II卷.高级特性.pdf  110.06M
+<br>Java2核心技术第I卷.基础知识.pdf  86.28M
 <br>Java2网络协议技术内幕.pdf  11.10M
 <br>Java案例开发.pdf  19.21M
 <br>Java并发程序设计教程.pdf  1.59M
