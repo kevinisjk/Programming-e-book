@@ -16,15 +16,25 @@
 <br>《DevOps实践指南》_刘征等译.pdf  219.20M
 <br><a href="https://pan.baidu.com/s/1xY7wTmRE6exgNi4Ktpy7CQ?pwd=il4w">百度网盘下载</a>
 <br>《DevOps实施手册 在多级IT企业中使用DevOps》_万金译.pdf  193.93M
+<br><a href="https://pan.baidu.com/s/15psk-auGasqgra-P0LTKWw?pwd=pd4t ">百度网盘下载</a>
 <br>《DevOps实战：VMware管理员运维方法、工具及最佳实践》.pdf  92.02M
+<br><a href="https://pan.baidu.com/s/1hDV6Ubdc8u_hzNcOjv_B1w?pwd=kzi2 ">百度网盘下载</a>
 <br>《Django企业开发实战 高效Python Web框架指南》_胡阳_2019-02-01.pdf  211.21M
+<br><a href="https://pan.baidu.com/s/1sk7D0disox4Ln2hps5i5Yw?pwd=e456">百度网盘下载</a>
 <br>《Docker从入门到实战》.pdf  191.71M
+<br><a href="https://pan.baidu.com/s/1iO7_x7o82CI1uAP162M9iQ?pwd=dupc">百度网盘下载</a>
 <br>《Docker技术入门与实战（第3版）》_杨保华等_2018-9-15.pdf  229.24M
+<br><a href="https://pan.baidu.com/s/1p1z1y2177-O0t6zSgzQ8cA?pwd=fj40">百度网盘下载</a>
 <br>《Docker进阶与实战》.pdf  185.45M
+<br><a href="https://pan.baidu.com/s/16PdX0Av0GGpq1kcdgBsjKg?pwd=0pj5">百度网盘下载</a>
 <br>《Docker容器 利用Kubernates Flannel Cockpit和Atomic构建和部署》.pdf  73.41M
+<br><a href="https://pan.baidu.com/s/11aa2KFL2AR09yqcuIO0jhg?pwd=7gqh">百度网盘下载</a>
 <br>《Docker容器实战》.pdf  203.26M
+<br><a href="https://pan.baidu.com/s/1Ake1BmUBUgDzvHSWHLlzyg?pwd=ii8r">百度网盘下载</a>
 <br>《Docker容器与虚拟化技术》.pdf  196.23M
+<br><a href="https://pan.baidu.com/s/1OXuHvijRexrLlWX2OFa1iQ?pwd=ljq9">百度网盘下载</a>
 <br>《Docker实践》.pdf  151.25M
+<br><a href="https://pan.baidu.com/s/1wUc1DLIdbhbx-h6q02N2PA?pwd=pscd">百度网盘下载</a>
 <br>《Docker实战（In action中文版）》.pdf  143.69M
 <br>《Docker微服务架构实战》_蒋彪_2018-11-20.pdf  151.92M
 <br>《Docker源码分析》.pdf  165.78M
