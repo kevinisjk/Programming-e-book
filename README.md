@@ -36,8 +36,11 @@
 <br>《Docker实践》.pdf  151.25M
 <br><a href="https://pan.baidu.com/s/1wUc1DLIdbhbx-h6q02N2PA?pwd=pscd">百度网盘下载</a>
 <br>《Docker实战（In action中文版）》.pdf  143.69M
+<br><a href="https://pan.baidu.com/s/1nKhDpThMyQ3thiWUrQSNcw?pwd=ij6f">百度网盘下载</a>
 <br>《Docker微服务架构实战》_蒋彪_2018-11-20.pdf  151.92M
+<br><a href="[https://pan.baidu.com/s/1pBLkH0eY0zRIU7irM1vgPg?pwd=416e">百度网盘下载</a>
 <br>《Docker源码分析》.pdf  165.78M
+<br><a href="https://pan.baidu.com/s/1qH6D-J362UQ_FYw_F0CXOg?pwd=6lkj">百度网盘下载</a>
 <br>《Druid实时大数据分析 原理与实践》.pdf  99.62M
 <br>《ECMAScript 2018快速入门》_黄灯桥_2018-12-01.pdf  121.18M
 <br>《Effective Java中文版（原书第3版）》_俞黎敏译_2018-12-11.pdf  197.60M
